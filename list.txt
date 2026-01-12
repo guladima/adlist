@@ -1,2 +1,16 @@
+0.0.0.0 schulist.link
 0.0.0.0 s.schulist.link
+0.0.0.0 nogravity4.click
 0.0.0.0 v.nogravity4.click
+0.0.0.0 cdn77.srvd2204.com
+0.0.0.0 cdn77-fs.srvd2204.com
+0.0.0.0 yandex.ru
+0.0.0.0 mc.yandex.ru
+0.0.0.0 voidnetwork.cloud
+0.0.0.0 srv.voidnetwork.cloud
+0.0.0.0 21wiz.com
+0.0.0.0 code.21wiz.com
+0.0.0.0 adpod.in
+0.0.0.0 track.adpod.in
+0.0.0.0 adstag0102.xyz
+0.0.0.0 r0.adstag0102.xyz
